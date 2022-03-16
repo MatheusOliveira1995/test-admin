@@ -3,10 +3,10 @@
 Aplicação React com intenção de seguir o tutorial do React-Admin
 https://marmelab.com/react-admin/Tutorial.html
 
-#Installation
+## Instalação
 $ yarn
 
-#Running the app
-
-# development
+## Rodando o app
 $ yarn start
+
+
